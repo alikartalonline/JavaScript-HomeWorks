@@ -13,11 +13,11 @@ You can access my React assignments from the links below.
 <br>
 <hr>
 
-#### HomeWork 2 : [""]()
+#### HomeWork 2 : ["ToDoList"](https://github.com/alikartalonline/JavaScript-HomeWorks/tree/main/HomeWork2)
 
-##### <b> : 
+##### <b> Javascript To Do List :  [Click to view](https://todolist-alikartalonline.netlify.app/)
 
-![]()
+![To Do List](https://i.hizliresim.com/rroowkn.gif)
 
 <br>
 <hr>
