@@ -30,3 +30,12 @@ You can access my React assignments from the links below.
 
 <br>
 <hr>
+  
+#### HomeWork 4 : ["JavaScript My Exercises"](https://github.com/alikartalonline/JavaScript-HomeWorks/tree/main/HomeWork3)
+
+##### <b> JavaScript My Exercises :  (Vücut Kitle Endeksi Hesaplama / Tahmin Oyunu / Hesap Makinesi / Not Ortalamasi Hesabi)
+
+![JavaScript My Exercises](https://i.hizliresim.com/l96r8fv.png)
+
+<br>
+<hr>
