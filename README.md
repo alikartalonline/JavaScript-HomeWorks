@@ -15,7 +15,7 @@ You can access my React assignments from the links below.
 
 #### HomeWork 2 : ["ToDoList"](https://github.com/alikartalonline/JavaScript-HomeWorks/tree/main/HomeWork2)
 
-##### <b> Javascript To Do List:   [Click to view](https://todolist-alikartalonline.netlify.app/)
+##### <b> Javascript To Do List :  [Click to view](https://todolist-alikartalonline.netlify.app/)
 
 ![To Do List](https://i.hizliresim.com/rroowkn.gif)
 
