@@ -1,4 +1,4 @@
-# React Homeworks
+# Javascript Homeworks
 
 ```
 You can access my React assignments from the links below.
